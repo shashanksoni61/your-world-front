@@ -342,7 +342,7 @@ const Homepage = () => {
               <div class="footer-item-form">
                 <input placeholder="your email address" type="text" />
                 <span class="footer-item-form-icon">
-                  <img src="./images/svg/send.svg" alt="" />
+                  <img src={images.icons.send} alt="" />
                 </span>
               </div>
             </div>
