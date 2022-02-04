@@ -1,7 +1,7 @@
 import Header from "./components/UI/Header";
 
 import "./assets/css/main.css";
-import Homepage from "./pages.jsx/Homepage";
+import Homepage from "./pages/Homepage";
 
 function App() {
   return (

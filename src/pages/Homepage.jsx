@@ -74,7 +74,7 @@ const Homepage = () => {
           <div class="what-we-do-grid">
             <div class="wwd-item nft">
               <div class="wwd-icon">
-                <img src={images.icons.nft} />
+                <img src={images.icons.nft} alt="" />
               </div>
               <div class="wwd-heading">NFT Marketplace</div>
               <div class="wwd-text">
@@ -84,7 +84,7 @@ const Homepage = () => {
             </div>
             <div class="wwd-item exchange">
               <div class="wwd-icon">
-                <img src={images.icons.center_exchange} />
+                <img src={images.icons.center_exchange} alt="" />
               </div>
               <div class="wwd-heading">Centralized Exchange</div>
               <div class="wwd-text">
@@ -94,7 +94,7 @@ const Homepage = () => {
             </div>
             <div class="wwd-item computers">
               <div class="wwd-icon">
-                <img src={images.icons.computers} />
+                <img src={images.icons.computers} alt="" />
               </div>
               <div class="wwd-heading">Blockchain Technology</div>
               <div class="wwd-text">
@@ -104,7 +104,7 @@ const Homepage = () => {
             </div>
             <div class="wwd-item frame">
               <div class="wwd-icon">
-                <img src={images.icons.frame} />
+                <img src={images.icons.frame} alt="" />
               </div>
               <div class="wwd-heading">Decentralized Exchange</div>
               <div class="wwd-text">
@@ -159,7 +159,7 @@ const Homepage = () => {
       </div>
       <section class="impact-cycle">
         <div class="impact-cycle-heading">Impact Cycle</div>
-        <img src={images.icons.group54} width="80%" />
+        <img src={images.icons.group54} width="80%" alt="" />
       </section>
       <div class="main-two">
         <section class="challenges">
@@ -181,7 +181,7 @@ const Homepage = () => {
               </div>
             </div>
             <div class="challenges-grid-right">
-              <img src={images.icons.challengeSection} />
+              <img src={images.icons.challengeSection} alt="" />
             </div>
           </div>
         </section>
@@ -251,7 +251,7 @@ const Homepage = () => {
           <div class="project-grid">
             <div class="project-grid-item project-grid-item-first">
               <div class="project-img">
-                <img src={images.projects.one} />
+                <img src={images.projects.one} alt="" />
               </div>
               <div class="project-heading">Lorem Ipsum Dorem Sit Amet</div>
               <div class="project-details">
@@ -261,7 +261,7 @@ const Homepage = () => {
             </div>
             <div class="project-grid-item project-grid-item-second">
               <div class="project-img">
-                <img src={images.projects.two} />
+                <img src={images.projects.two} alt="" />
               </div>
               <div class="project-heading">Lorem Ipsum Dorem Sit Amet</div>
               <div class="project-details">
@@ -271,7 +271,7 @@ const Homepage = () => {
             </div>
             <div class="project-grid-item project-grid-item-third">
               <div class="project-img">
-                <img src={images.projects.three} />
+                <img src={images.projects.three} alt="" />
               </div>
               <div class="project-heading">Lorem Ipsum Dorem Sit Amet</div>
               <div class="project-details">
@@ -301,7 +301,7 @@ const Homepage = () => {
         <footer>
           <div class="footer-grid">
             <div class="footer-item f-item-one">
-              <img src={images.logo} alt="" />
+              <img src={images.logo} alt="" alt="" />
               <div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Praesent eu dolor dapibus, mattis sem non, porta odio. Orci
@@ -309,13 +309,13 @@ const Homepage = () => {
               </div>
               <div class="social-icons">
                 <div class="icon">
-                  <img src={images.icons.insa} />
+                  <img src={images.icons.insa} alt="" />
                 </div>
                 <div class="icon">
-                  <img src={images.icons.twitter} />
+                  <img src={images.icons.twitter} alt="" />
                 </div>
                 <div class="icon">
-                  <img src={images.icons.youtube} />
+                  <img src={images.icons.youtube} alt="" />
                 </div>
               </div>
             </div>
@@ -342,7 +342,7 @@ const Homepage = () => {
               <div class="footer-item-form">
                 <input placeholder="your email address" type="text" />
                 <span class="footer-item-form-icon">
-                  <img src="./images/svg/send.svg" alt="" />
+                  <img src="./images/svg/send.svg" alt="" alt="" />
                 </span>
               </div>
             </div>
