@@ -301,7 +301,7 @@ const Homepage = () => {
         <footer>
           <div class="footer-grid">
             <div class="footer-item f-item-one">
-              <img src={images.logo} alt="" alt="" />
+              <img src={images.logo} alt="" />
               <div>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Praesent eu dolor dapibus, mattis sem non, porta odio. Orci
@@ -342,7 +342,7 @@ const Homepage = () => {
               <div class="footer-item-form">
                 <input placeholder="your email address" type="text" />
                 <span class="footer-item-form-icon">
-                  <img src="./images/svg/send.svg" alt="" alt="" />
+                  <img src="./images/svg/send.svg" alt="" />
                 </span>
               </div>
             </div>
